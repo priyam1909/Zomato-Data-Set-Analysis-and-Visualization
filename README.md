@@ -80,6 +80,3 @@ cd Zomato-Data-Set-Analysis-and-Visualization
 
 The Zomato dataset used in this project is obtained from [Kaggle](https://www.kaggle.com/shrutimehta/zomato-restaurants-data).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
